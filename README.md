@@ -29,3 +29,6 @@ To create game, extend engine.Project class and add to main method function:
 <code>
 engine.Application.run(new YourClassExtendingProjectClass());
 </code>
+
+<br>
+Notice: Game created with version 0.2 can be displayed only in window 768x1024px
