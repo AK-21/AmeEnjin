@@ -32,10 +32,10 @@ Is possible to add  credits rolling from bottom to top,  contains text and image
 <a href = "https://mozilla.github.io/Fira/" target = "_blank">Fira Sans</a><br>
 <a href = "http://font.gloomy.jp/honoka-antique-kaku-dl.html" target = "_blank">Honoka Antique Kaku (ほのかアンティーク角)</a><br>
 <br>
-Fonts are included in zip archive.
+Fonts are included.
 <br>
 <br>
-Default kana images are included in zip archive.
+Default kana images are included.
 <br>
 <br>
 <a href = "https://www.dropbox.com/s/383odzayit5lw91/AmeEnjinProject.zip?dl=0" target = "_blank"><h3>Download</h3></a>
