@@ -37,6 +37,6 @@ Notice: Game created with version 0.2 may be displayed only in window 768x1024px
 Required libraries:
 <br>
 <a href ="http://legacy.lwjgl.org" target="_blank">LWJGL 2</a><br>
-<a href ="http://slick.ninjacave.com/slick-util/" target="_blank">Slick-util</a><br>
+<a href ="http://slick.ninjacave.com/slick-util/" target="_blank">Slick-Util</a><br>
 <a href ="https://github.com/AK-21/uJavniacz" target="_blank">uJavniacz</a><br>
 
