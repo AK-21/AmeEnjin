@@ -15,9 +15,9 @@ LWJGL 2-based tool to create typing games with chars drop.
    See the License for the specific language governing permissions and
    limitations under the License.
    
-<a href = "https://www.dropbox.com/s/383odzayit5lw91/AmeEnjinProject.zip?dl=0" target="_blank">Download</a>
+<a href = "https://www.dropbox.com/s/383odzayit5lw91/AmeEnjinProject.zip?dl=0" target = "_blank">Download</a>
 
-<a href = "https://www.dropbox.com/s/ptxe1eahzis0fii/AmeEnjin_Project_Javadoc.zip?dl=0" target="_blank">Download Project class Javadoc</a>
+<a href = "https://www.dropbox.com/s/ptxe1eahzis0fii/AmeEnjin_Project_Javadoc.zip?dl=0" target = "_blank">Download Project class Javadoc</a>
 
 To create game, extend engine.Project class and add to main method function:
 
