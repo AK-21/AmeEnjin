@@ -16,9 +16,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 </blockquote>
-<br>
-<br>
-
 <h2>About</h2>
 
 LWJGL 2-based library to create typing games with chars drop.
@@ -30,7 +27,7 @@ Games may have plot, realized by simple dialogues and static text screens with o
 
 Is possible to add  credits rolling from bottom to top,  contains text and images.
 <br>
-
+<br>
 <strong>By default, library uses fonts:</strong><br>
 <a href = "https://mozilla.github.io/Fira/" target = "_blank">Fira Sans</a><br>
 <a href = "http://font.gloomy.jp/honoka-antique-kaku-dl.html" target = "_blank">Honoka Antique Kaku (ほのかアンティーク角)</a><br>
