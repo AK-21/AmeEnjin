@@ -38,7 +38,6 @@ Fonts are included in zip archive.
 Default kana images are included in zip archive.
 <br>
 <br>
-<br>
 <a href = "https://www.dropbox.com/s/383odzayit5lw91/AmeEnjinProject.zip?dl=0" target = "_blank"><h3>Download</h3></a>
 <br>
 <br>
@@ -47,9 +46,9 @@ To create game, extend engine.Project class and add to main method function:
 <code>
 engine.Application.run(new YourClassExtendingProjectClass());
 </code>
-<br>
+<br><br>
 <a href = "https://www.dropbox.com/s/ptxe1eahzis0fii/AmeEnjin_Project_Javadoc.zip?dl=0" target = "_blank">Download Project class Javadoc</a>
-<br>
+<br><br>
 Notice: Game created with version 0.2 may be displayed only in window 768x1024px
 <br>
 <br>
