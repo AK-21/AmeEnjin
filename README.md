@@ -18,6 +18,9 @@ limitations under the License.
 </blockquote>
 <br>
 <br>
+
+<h2>About/h2<>
+
 LWJGL 2-based library to create typing games with chars drop.
 <br>
 
@@ -28,7 +31,7 @@ Games may have plot, realized by simple dialogues and static text screens with o
 Is possible to add  credits rolling from bottom to top,  contains text and images.
 <br>
 
-By default, library uses fonts:
+<strong>By default, library uses fonts:</strong><br>
 <a href = "https://mozilla.github.io/Fira/" target = "_blank">Fira Sans</a><br>
 <a href = "http://font.gloomy.jp/honoka-antique-kaku-dl.html" target = "_blank">Honoka Antique Kaku (ほのかアンティーク角)</a><br>
 <br>
@@ -39,7 +42,7 @@ Default kana images are included in zip archive.
 <br>
 <br>
 
-<a href = "https://www.dropbox.com/s/383odzayit5lw91/AmeEnjinProject.zip?dl=0" target = "_blank">Download</a>
+<a href = "https://www.dropbox.com/s/383odzayit5lw91/AmeEnjinProject.zip?dl=0" target = "_blank"><h3>Download</h3></a>
 
 <a href = "https://www.dropbox.com/s/ptxe1eahzis0fii/AmeEnjin_Project_Javadoc.zip?dl=0" target = "_blank">Download Project class Javadoc</a>
 
