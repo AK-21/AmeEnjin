@@ -31,4 +31,4 @@ engine.Application.run(new YourClassExtendingProjectClass());
 </code>
 <br>
 <br>
-Notice: Game created with version 0.2 can be displayed only in window 768x1024px
+Notice: Game created with version 0.2 may be displayed only in window 768x1024px
