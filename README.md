@@ -19,7 +19,7 @@ limitations under the License.
 <br>
 <br>
 
-<h2>About/h2<>
+<h2>About/<h2>
 
 LWJGL 2-based library to create typing games with chars drop.
 <br>
