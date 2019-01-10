@@ -19,7 +19,7 @@ limitations under the License.
 <br>
 <br>
 
-<h2>About/<h2>
+<h2>About</h2>
 
 LWJGL 2-based library to create typing games with chars drop.
 <br>
@@ -56,7 +56,7 @@ engine.Application.run(new YourClassExtendingProjectClass());
 Notice: Game created with version 0.2 may be displayed only in window 768x1024px
 <br>
 <br>
-Required libraries:
+<strong>Required libraries:</strong>
 <br>
 <a href ="http://legacy.lwjgl.org" target="_blank">LWJGL 2</a><br>
 <a href ="http://slick.ninjacave.com/slick-util/" target="_blank">Slick-Util</a><br>
