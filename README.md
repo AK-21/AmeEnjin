@@ -1,7 +1,5 @@
 # AmeEnjin
-LWJGL 2-based library to create typing games with chars drop.
 
-<br>
 <blockquote>
 Copyright 2019 Arkadiusz Kostyra
 <br>
@@ -18,6 +16,17 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 </blockquote>
+<br>
+<br>
+LWJGL 2-based library to create typing games with chars drop.
+<br>
+
+Chars dropping and typing is realized as fight with opponent. Chars drop series are defined as npc abilities, with defined size, power, speed and cost. To use abilities are required AP (action points), obtained on turn begin.
+
+Games may have plot, realized by simple dialogues and static text screens with or without background.
+
+Is possible to add  credits rolling from bottom to top,  contains text and images.
+<br>
 <br>
 
 <a href = "https://www.dropbox.com/s/383odzayit5lw91/AmeEnjinProject.zip?dl=0" target = "_blank">Download</a>
