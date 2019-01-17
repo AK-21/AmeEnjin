@@ -26,7 +26,7 @@ Chars dropping and typing is realized as fight with opponent. Chars drop series 
 Games may have plot, realized by simple dialogues and static text screens with or without background.
 
 Is possible to add  credits rolling from bottom to top,  contains text and images.<br>
-<br><strong><a href = "https://github.com/AK-21/Towamaga-sama/">See example game here</a></br>
+<br><strong><a href = "https://github.com/AK-21/Towamaga-sama/">See example game here</a></strong></br>
 <br>
 <br>
 <strong>By default, library uses fonts:</strong><br>
