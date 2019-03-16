@@ -18,14 +18,14 @@ limitations under the License.
 </blockquote>
 <h2>About</h2>
 
-LWJGL 2-based library to create typing games with chars drop.
+LWJGL 2-based library for creating typing games with chars drop.
 <br>
 
 Chars dropping and typing is realized as fight with opponent. Chars drop series are defined as npc abilities, with defined size, power, speed and cost. To use abilities are required AP (action points), obtained on turn begin.
 
 Games may have plot, realized by simple dialogues and static text screens with or without background.
 
-Is possible to add  credits rolling from bottom to top,  contains text and images.<br>
+It is possible to add  credits rolling from bottom to top,  contains text and images.<br>
 <br><strong><a href = "https://github.com/AK-21/Towamaga-sama/">See example game here</a></strong></br>
 <br>
 <br>
