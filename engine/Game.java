@@ -1345,7 +1345,7 @@ class Game
 		
 		vInfoFnt = new GameFont(GameFont.FONT_JP, 35, vResources,  " BEDOPRWY", rc);
 		vNameFnt = new GameFont(GameFont.FONT_JP, 170, vResources,  "雨エンジ", jpc);
-		vNameRomajiFnt = new GameFont(GameFont.FONT_PL, 30, vResources, " .02AEeijmnv", rc);
+		vNameRomajiFnt = new GameFont(GameFont.FONT_PL, 30, vResources, " .012AEeijmnv", rc);
 	}
 	
 	private void drawInfo()
@@ -1354,7 +1354,7 @@ class Game
 		int posy=Graphics.DEFAULT_WINDOW_HEIGHT/2-90;
 		
 		Graphics.writeTextLR("POWERED BY", vInfoFnt, xpos+4, posy-30);
-		Graphics.writeTextLR("AmeEnjin v0.2", vNameRomajiFnt, xpos+170, posy+15);
+		Graphics.writeTextLR("AmeEnjin v0.2.1", vNameRomajiFnt, xpos+170, posy+15);
 		Graphics.writeTextLR("雨エンジン", vNameFnt, xpos, posy);
 	}	
 	

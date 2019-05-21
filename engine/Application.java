@@ -3,6 +3,8 @@ package engine;
 import static engine.Graphics.DEFAULT_WINDOW_HEIGHT;
 import static engine.Graphics.DEFAULT_WINDOW_WIDTH;
 
+import java.util.Calendar;
+
 import org.lwjgl.LWJGLException;
 import org.lwjgl.openal.AL;
 
@@ -16,10 +18,17 @@ public abstract class Application
 		Launcher launcher = new Launcher(project);
 		launcher.start();
 		boolean ready = false;
+		
+		Calendar time = Calendar.getInstance();
+		long beginning = time.getTimeInMillis();
+		
 		while(!ready)
 		{
 			ready = launcher.isReadyToBuild();
+			time = Calendar.getInstance();
 		}		
+		
+		Logger.log("Program starting! Time spent in launcher: " + (time.getTimeInMillis() - beginning)/1000 + " seconds.");
 		
 		init();	
 		initPlatform();

@@ -77,15 +77,15 @@ public class KanaTable
 			{
 				panel.add(single(array[firstLine][0], array[firstLine][1], array[firstLine][2]));
 				panel.add(emptySingle(450));
-				panel.add(single(array[firstLine+1][0], array[firstLine+1][1], array[firstLine+3][1]));
+				panel.add(single(array[firstLine+1][0], array[firstLine+1][1], array[firstLine+1][2]));
 			}			
 			else if(size==3)
 			{
 				panel.add(single(array[firstLine][0], array[firstLine][1], array[firstLine][2]));
 				panel.add(emptySingle(150));
-				panel.add(single(array[firstLine+1][0], array[firstLine+2][1], array[firstLine+3][2]));
+				panel.add(single(array[firstLine+1][0], array[firstLine+1][1], array[firstLine+1][2]));
 				panel.add(emptySingle(150));
-				panel.add(single(array[firstLine+2][0], array[firstLine+2][1], array[firstLine+3][2]));
+				panel.add(single(array[firstLine+2][0], array[firstLine+2][1], array[firstLine+2][2]));
 			}
 			else
 			{

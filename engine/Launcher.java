@@ -60,7 +60,7 @@ class Launcher
 	
 	private static final float ALIGNMENT = Container.LEFT_ALIGNMENT;
 	
-	private static final String NAME_LAUNCHER = " AmeEnjin 0.2 Game Launcher ";
+	private static final String NAME_LAUNCHER = " AmeEnjin 0.2.1 Game Launcher ";
 	private static final String NAME_LAUNCHER_JP = " 雨エンジン";
 	private static final String HEADER_LAUNCHER = "Launcher";
 	
